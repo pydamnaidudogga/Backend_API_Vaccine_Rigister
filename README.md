@@ -1,6 +1,6 @@
 # Backend_API_Vaccine_Rigister
 
--	User Rigister and SignIn only.
+-	User Rigister and SignIn .
 -	Admin logIn username:Pydamnaidu and password:pydamnaidu@dogga
 -	Schemas for Admin, slots and User
 -	Slot book for vaccine
