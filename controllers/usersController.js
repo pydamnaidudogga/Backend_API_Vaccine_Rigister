@@ -1,3 +1,5 @@
+//  Users controllers file
+
 // User Registration
 const User = require('../models/User');
 const Slot = require('../models/Slots');

@@ -1,3 +1,4 @@
+// Slots Shcema
 const mongoose = require('mongoose');
 const slotSchema = new mongoose.Schema({
     date: {

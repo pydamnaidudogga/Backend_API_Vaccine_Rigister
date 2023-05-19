@@ -1,3 +1,5 @@
+// User Shcema
+
 const mongoose = require('mongoose');
 const Slot = require('./Slots');
 

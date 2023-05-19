@@ -1,3 +1,4 @@
+// mongoose config file
 const mongoose = require('mongoose');
 const mongodbUri = 'mongodb+srv://pydamnaidu:wFkEtwmASsquWhOH@Vaccine.cjh6ckr.mongodb.net/?retryWrites=true&w=majority';
 // const mongodbUri = 'mongodb://127.0.0.1/vaccine';

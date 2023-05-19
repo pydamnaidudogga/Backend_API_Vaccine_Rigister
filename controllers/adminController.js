@@ -1,4 +1,7 @@
- 
+//  Admin controllers file
+
+
+
  const User = require('../models/User');
  const Admin = require('../models/Admin');
 const Slot = require('../models/Slots');

@@ -1,3 +1,6 @@
+ //  slots controllers file
+ 
+ 
  // Get Available Slots for a given day
  const Slot = require('../models/Slots')
  const User = require('../models/User');

@@ -1,3 +1,6 @@
+// main index file to this API
+
+
 const express = require('express');
 const db = require('./config/mongoose');
 const app = express();

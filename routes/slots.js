@@ -1,3 +1,6 @@
+// slots routes
+
+
 const express = require('express');
 const route = express.Router();
 const slotsController = require('../controllers/slotsController');
